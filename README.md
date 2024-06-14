@@ -74,7 +74,7 @@ How to use:
 
 ![square random banner](https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=heatwave&h=50&xt=100)
 
-##Lab routes:
+## Lab routes:
 
 `https://tinygraphs.cartesi.io/labs/checkerboard`
 
