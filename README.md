@@ -1,7 +1,7 @@
-[tinygraphs](http://tinygraphs.com)
+[tinygraphs](https://tinygraphs.cartesi.io)
 ==============
 
-**tinygraphs** is an avatar generator web service. Checkout [tinygraphs.com](http://www.tinygraphs.com/) to try it.
+**tinygraphs** is an avatar generator web service. Checkout [tinygraphs.cartesi.io](https://tinygraphs.cartesi.io/) to try it.
 
 [![baby-gopher](https://raw.githubusercontent.com/drnic/babygopher-site/gh-pages/images/babygopher-badge.png)](http://www.babygopher.org)
 
@@ -18,166 +18,166 @@
 How to use:
 ======
 
-* You can set the HTML source of the image to point directly to [tinygraphs.com](http://tinygraphs.com)
-~~~html
-<img src="http://tinygraphs.com/squares/helloworld">
-~~~
+* You can set the HTML source of the image to point directly to [tinygraphs.cartesi.io](https://tinygraphs.cartesi.io)
+ ~~~html
+ <img src="https://tinygraphs.cartesi.io/squares/helloworld">
+ ~~~
 * You can save the image and use it directly on your site
 * You can `go get` this repo and use it.
 
-*just remember to give us credit with a link to tinygraphs.com ;)*
+*just remember to give us credit with a link to tinygraphs.cartesi.io ;)*
 
 ## Supported routes:
 
-`http://tinygraphs.com/squares/anything`
+`https://tinygraphs.cartesi.io/squares/anything`
 
-![squares](http://tinygraphs.com/squares/anything?size=120&theme=frogideas&numcolors=2&fmt=svg) ![squares](http://tinygraphs.com/squares/anything?size=120&theme=frogideas&numcolors=3&fmt=svg) ![squares](http://tinygraphs.com/squares/anything?size=120&theme=frogideas&numcolors=4&fmt=svg)
+![squares](https://tinygraphs.cartesi.io/squares/anything?size=120&theme=frogideas&numcolors=2&fmt=svg) ![squares](https://tinygraphs.cartesi.io/squares/anything?size=120&theme=frogideas&numcolors=3&fmt=svg) ![squares](https://tinygraphs.cartesi.io/squares/anything?size=120&theme=frogideas&numcolors=4&fmt=svg)
 
-`http://tinygraphs.com/isogrids/helloworld`
+`https://tinygraphs.cartesi.io/isogrids/helloworld`
 
-![squares](http://tinygraphs.com/isogrids/helloworld?size=120&theme=heatwave) ![squares](http://tinygraphs.com/isogrids/helloworld?size=120&theme=heatwave&numcolors=3) ![squares](http://tinygraphs.com/isogrids/helloworld?size=120&theme=heatwave&numcolors=4)
+![squares](https://tinygraphs.cartesi.io/isogrids/helloworld?size=120&theme=heatwave) ![squares](https://tinygraphs.cartesi.io/isogrids/helloworld?size=120&theme=heatwave&numcolors=3) ![squares](https://tinygraphs.cartesi.io/isogrids/helloworld?size=120&theme=heatwave&numcolors=4)
 
-`http://tinygraphs.com/spaceinvaders/helloworld`
+`https://tinygraphs.cartesi.io/spaceinvaders/helloworld`
 
-![squares](http://tinygraphs.com/spaceinvaders/holamundo?size=120&theme=frogideas)
-![squares](http://tinygraphs.com/spaceinvaders/hello?size=120&theme=berrypie) ![squares](http://tinygraphs.com/spaceinvaders/world?size=120&theme=bythepool)
+![squares](https://tinygraphs.cartesi.io/spaceinvaders/holamundo?size=120&theme=frogideas)
+![squares](https://tinygraphs.cartesi.io/spaceinvaders/hello?size=120&theme=berrypie) ![squares](https://tinygraphs.cartesi.io/spaceinvaders/world?size=120&theme=bythepool)
 
-`http://tinygraphs.com/squares/banner/random?h=50&xs=100`
+`https://tinygraphs.cartesi.io/squares/banner/random?h=50&xs=100`
 
-![square random banner](http://tinygraphs.com/squares/banner/random?h=50&xs=100&theme=frogideas&fmt=svg)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random?h=50&xs=100&theme=frogideas&fmt=svg)
 
-![square random banner](http://tinygraphs.com/squares/banner/random?h=50&xs=100&theme=seascape&fmt=svg)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random?h=50&xs=100&theme=seascape&fmt=svg)
 
-![square random banner](http://tinygraphs.com/squares/banner/random?h=50&xs=100&theme=heatwave&fmt=svg)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random?h=50&xs=100&theme=heatwave&fmt=svg)
 
-`http://tinygraphs.com/squares/banner/random/gradient?theme=frogideas&xs=100`
+`https://tinygraphs.cartesi.io/squares/banner/random/gradient?theme=frogideas&xs=100`
 
-![square random banner](http://tinygraphs.com/squares/banner/random/gradient?theme=frogideas&h=50&xs=100)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random/gradient?theme=frogideas&h=50&xs=100)
 
-![square random banner](http://tinygraphs.com/squares/banner/random/gradient?theme=seascape&h=50&xs=100)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random/gradient?theme=seascape&h=50&xs=100)
 
-![square random banner](http://tinygraphs.com/squares/banner/random/gradient?theme=duskfalling&h=50&xs=100)
+![square random banner](https://tinygraphs.cartesi.io/squares/banner/random/gradient?theme=duskfalling&h=50&xs=100)
 
-`http://tinygraphs.com/isogrids/banner/random?h=50&xt=100`
+`https://tinygraphs.cartesi.io/isogrids/banner/random?h=50&xt=100`
 
-![isogrids random banner](http://tinygraphs.com/isogrids/banner/random?h=50&xt=100&theme=frogideas)
+![isogrids random banner](https://tinygraphs.cartesi.io/isogrids/banner/random?h=50&xt=100&theme=frogideas)
 
-![isogrids random banner](http://tinygraphs.com/isogrids/banner/random?h=50&xt=100&theme=seascape)
+![isogrids random banner](https://tinygraphs.cartesi.io/isogrids/banner/random?h=50&xt=100&theme=seascape)
 
-![isogrids random banner](http://tinygraphs.com/isogrids/banner/random?h=50&xt=100&theme=heatwave)
+![isogrids random banner](https://tinygraphs.cartesi.io/isogrids/banner/random?h=50&xt=100&theme=heatwave)
 
-`http://tinygraphs.com/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100`
+`https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100`
 
-![square random banner](http://tinygraphs.com/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100)
+![square random banner](https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=frogideas&h=50&xt=100)
 
-![square random banner](http://tinygraphs.com/isogrids/banner/random/gradient?theme=seascape&h=50&xt=100)
+![square random banner](https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=seascape&h=50&xt=100)
 
-![square random banner](http://tinygraphs.com/isogrids/banner/random/gradient?theme=heatwave&h=50&xt=100)
+![square random banner](https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=heatwave&h=50&xt=100)
 
 ##Lab routes:
 
-`http://tinygraphs.com/labs/checkerboard`
+`https://tinygraphs.cartesi.io/labs/checkerboard`
 
-![checkerboard](http://tinygraphs.com/labs/checkerboard?size=120)
+![checkerboard](https://tinygraphs.cartesi.io/labs/checkerboard?size=120)
 
-`http://tinygraphs.com/labs/squares/random`
+`https://tinygraphs.cartesi.io/labs/squares/random`
 
-![random](http://tinygraphs.com/labs/squares/random?size=120&theme=summerwarmth&numcolors=4) ![random](http://tinygraphs.com/labs/squares/random?size=120&theme=daisygarden&numcolors=4)
-![random](http://tinygraphs.com/labs/squares/random?size=120&theme=duskfalling&numcolors=4)
+![random](https://tinygraphs.cartesi.io/labs/squares/random?size=120&theme=summerwarmth&numcolors=4) ![random](https://tinygraphs.cartesi.io/labs/squares/random?size=120&theme=daisygarden&numcolors=4)
+![random](https://tinygraphs.cartesi.io/labs/squares/random?size=120&theme=duskfalling&numcolors=4)
 
-`http://tinygraphs.com/labs/isogrids/random`
+`https://tinygraphs.cartesi.io/labs/isogrids/random`
 
-![random](http://tinygraphs.com/labs/isogrids/random?size=120&theme=seascape) ![random](http://tinygraphs.com/labs/isogrids/random?size=120&theme=seascape&numcolors=3) ![random](http://tinygraphs.com/labs/isogrids/random?size=120&theme=seascape&numcolors=4)
+![random](https://tinygraphs.cartesi.io/labs/isogrids/random?size=120&theme=seascape) ![random](https://tinygraphs.cartesi.io/labs/isogrids/random?size=120&theme=seascape&numcolors=3) ![random](https://tinygraphs.cartesi.io/labs/isogrids/random?size=120&theme=seascape&numcolors=4)
 
-`http://tinygraphs.com/labs/isogrids/hexa`
+`https://tinygraphs.cartesi.io/labs/isogrids/hexa`
 
-![hexa](http://tinygraphs.com/labs/isogrids/hexa/hello?size=120&theme=frogideas&numcolors=4) ![hexa](http://tinygraphs.com/labs/isogrids/hexa/hello?size=120&theme=bythepool&numcolors=4) ![hexa](http://tinygraphs.com/labs/isogrids/hexa/hello?size=120&theme=berrypie&numcolors=4)
+![hexa](https://tinygraphs.cartesi.io/labs/isogrids/hexa/hello?size=120&theme=frogideas&numcolors=4) ![hexa](https://tinygraphs.cartesi.io/labs/isogrids/hexa/hello?size=120&theme=bythepool&numcolors=4) ![hexa](https://tinygraphs.cartesi.io/labs/isogrids/hexa/hello?size=120&theme=berrypie&numcolors=4)
 
-`http://tinygraphs.com/labs/isogrids/hexa16`
+`https://tinygraphs.cartesi.io/labs/isogrids/hexa16`
 
-![hexa16](http://tinygraphs.com/labs/isogrids/hexa16/hello?size=120&theme=frogideas&numcolors=2) ![hexa16](http://tinygraphs.com/labs/isogrids/hexa16/hello?size=120&theme=bythepool&numcolors=3) ![hexa16](http://tinygraphs.com/labs/isogrids/hexa16/hello?size=120&theme=berrypie&numcolors=4)
+![hexa16](https://tinygraphs.cartesi.io/labs/isogrids/hexa16/hello?size=120&theme=frogideas&numcolors=2) ![hexa16](https://tinygraphs.cartesi.io/labs/isogrids/hexa16/hello?size=120&theme=bythepool&numcolors=3) ![hexa16](https://tinygraphs.cartesi.io/labs/isogrids/hexa16/hello?size=120&theme=berrypie&numcolors=4)
 
-`http://tinygraphs.com/labs/squares/banner/gradient`
+`https://tinygraphs.cartesi.io/labs/squares/banner/gradient`
 
-![gradient colors squares](http://www.tinygraphs.com/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
+![gradient colors squares](https://tinygraphs.cartesi.io/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
 
-![gradient colors squares](http://www.tinygraphs.com/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
+![gradient colors squares](https://tinygraphs.cartesi.io/labs/squares/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
 
-`http://tinygraphs.com/labs/isogrids/banner/gradient`
+`https://tinygraphs.cartesi.io/labs/isogrids/banner/gradient`
 
-![gradient colors isogrids](http://www.tinygraphs.com/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
+![gradient colors isogrids](https://tinygraphs.cartesi.io/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25)
 
-![gradient colors isogrids](http://www.tinygraphs.com/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
+![gradient colors isogrids](https://tinygraphs.cartesi.io/labs/isogrids/banner/gradient?h=100&xs=50&theme=frogideas&xs=25&numcolors=2&gx2=40&gx1=0&gy1=50&gy2=100)
 
 ## Parameters:
 
-* **size**: `tinygraphs.com/squares/hello?size=60`
-* **formats**: `tinygraphs.com/squares/hello?fmt=svg`
+* **size**: `tinygraphs.cartesi.io/squares/hello?size=60`
+* **formats**: `tinygraphs.cartesi.io/squares/hello?fmt=svg`
 
     The default format is `SVG`.
 
     All routes support SVG format, except `Square` routes who also support JPEG.
 
-* **background and foreground**: `tinygraphs.com/squares/hello?bg=ff4008&fg=04d6f2`
+* **background and foreground**: `tinygraphs.cartesi.io/squares/hello?bg=ff4008&fg=04d6f2`
 
     You can specify the color of the background or foreground by using parameters `bg` and `fg` and passing an hexadecimal value of the color:
 
-* **theme**: `tinygraphs.com/labs/squares/random?theme=frogideas`
+* **theme**: `tinygraphs.cartesi.io/labs/squares/random?theme=frogideas`
 
     You can specify the theme you want to take into account in the image.
 
-    ![theme](http://tinygraphs.com/labs/squares/random?theme=frogideas&size=120&fmt=svg)
+    ![theme](https://tinygraphs.cartesi.io/labs/squares/random?theme=frogideas&size=120&fmt=svg)
 
     Here is the list of existing themes:
-    * ![theme](http://tinygraphs.com/themes/base?fmt=svg&h=20) base
-    * ![theme](http://tinygraphs.com/themes/sugarsweets?fmt=svg&h=20) sugarsweets
-    * ![theme](http://tinygraphs.com/themes/heatwave?fmt=svg&h=20) heatwave
-    * ![theme](http://tinygraphs.com/themes/daisygarden?fmt=svg&h=20)daisygarden
-    * ![theme](http://tinygraphs.com/themes/seascape?fmt=svg&h=20) seascape
-    * ![theme](http://tinygraphs.com/themes/summerwarmth?fmt=svg&h=20) summerwarmth
-    * ![theme](http://tinygraphs.com/themes/bythepool?fmt=svg&h=20) bythepool
-    * ![theme](http://tinygraphs.com/themes/duskfalling?fmt=svg&h=20) duskfalling
-    * ![theme](http://tinygraphs.com/themes/frogideas?fmt=svg&h=20) frogideas
-    * ![theme](http://tinygraphs.com/themes/berrypie?fmt=svg&h=20) berrypie
+    * ![theme](https://tinygraphs.cartesi.io/themes/base?fmt=svg&h=20) base
+    * ![theme](https://tinygraphs.cartesi.io/themes/sugarsweets?fmt=svg&h=20) sugarsweets
+    * ![theme](https://tinygraphs.cartesi.io/themes/heatwave?fmt=svg&h=20) heatwave
+    * ![theme](https://tinygraphs.cartesi.io/themes/daisygarden?fmt=svg&h=20)daisygarden
+    * ![theme](https://tinygraphs.cartesi.io/themes/seascape?fmt=svg&h=20) seascape
+    * ![theme](https://tinygraphs.cartesi.io/themes/summerwarmth?fmt=svg&h=20) summerwarmth
+    * ![theme](https://tinygraphs.cartesi.io/themes/bythepool?fmt=svg&h=20) bythepool
+    * ![theme](https://tinygraphs.cartesi.io/themes/duskfalling?fmt=svg&h=20) duskfalling
+    * ![theme](https://tinygraphs.cartesi.io/themes/frogideas?fmt=svg&h=20) frogideas
+    * ![theme](https://tinygraphs.cartesi.io/themes/berrypie?fmt=svg&h=20) berrypie
 
 
-* **numcolors**: `tinygraphs.com/labs/squares/random?theme=summerwarmth&numcolors=4`
+* **numcolors**: `tinygraphs.cartesi.io/labs/squares/random?theme=summerwarmth&numcolors=4`
 
     You can specify the number of colors that you want to render the image.
     Default value is **2** and can be extended to **4**.
 
-    ![theme](http://tinygraphs.com/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=2) ![theme](http://tinygraphs.com/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=3) ![theme](http://tinygraphs.com/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=4)
+    ![theme](https://tinygraphs.cartesi.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=2) ![theme](https://tinygraphs.cartesi.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=3) ![theme](https://tinygraphs.cartesi.io/labs/squares/random?theme=frogideas&size=120&fmt=svg&numcolors=4)
 
 * **inv**:
-`tinygraphs.com/squares/hello?theme=frogideas&numcolors=2&inv=1`
+`tinygraphs.cartesi.io/squares/hello?theme=frogideas&numcolors=2&inv=1`
 
     You can specify if you want to see the colors inverted.
     Default value is **false**. `inv` parameter works with theme colors or default (black and white) colors. The number of colors has to be equal to **2**.
 
-    ![normal](http://tinygraphs.com/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=0) ![inverse](http://tinygraphs.com/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=1)
+    ![normal](https://tinygraphs.cartesi.io/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=0) ![inverse](https://tinygraphs.cartesi.io/squares/hello?theme=frogideas&size=120&fmt=svg&numcolors=2&inv=1)
 
 * **order**:
-`tinygraphs.com/squares/hello?theme=frogideas&numcolors=4&order=3&order=2&order=1&order=0`
+`tinygraphs.cartesi.io/squares/hello?theme=frogideas&numcolors=4&order=3&order=2&order=1&order=0`
 
     You can specify the order in which you want to see the colors by using the `order` parameter. Just add the indexes in which you wish to see the colors to the order array (indexes are zero based)
     Like so: `order=3&order=2&order=1&order=0`
 
-    ![normal](http://tinygraphs.com/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4)
-    ![reorder](http://tinygraphs.com/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4&order=3&order=2&order=1&order=0)
+    ![normal](https://tinygraphs.cartesi.io/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4)
+    ![reorder](https://tinygraphs.cartesi.io/squares/hello?theme=seascape&size=120&fmt=svg&numcolors=4&order=3&order=2&order=1&order=0)
 
 * **lines**:
-`tinygraphs.com/isogrids/hello?lines=4`
+`tinygraphs.cartesi.io/isogrids/hello?lines=4`
 
  You can specify the number of lines that an isogrid can have using the `lines`parameter. **Default** parameter is **6**. Value has to be greater or equal to 4.
 
- ![number of lines in isogrid image.](http://tinygraphs.com/isogrids/hello?lines=4&size=120&fmt=svg)
+ ![number of lines in isogrid image.](https://tinygraphs.cartesi.io/isogrids/hello?lines=4&size=120&fmt=svg)
 
 * **colors**:
 
- `tinygraphs.com/isogrids/hello?lines=4&colors=43e0e8&colors=e84b43`
+ `tinygraphs.cartesi.io/isogrids/hello?lines=4&colors=43e0e8&colors=e84b43`
  You can specify use you own colors by using the `colors` parameter and passing hexa colors.
 
-    ![isogrid with custom colors](http://tinygraphs.com/isogrids/hello?lines=4&size=120&colors=43e0e8&colors=e84b43)
+    ![isogrid with custom colors](https://tinygraphs.cartesi.io/isogrids/hello?lines=4&size=120&colors=43e0e8&colors=e84b43)
 
 * **banner parameters:**
     * `h`: height parameter.
@@ -187,16 +187,16 @@ How to use:
     * `theme`: tinygraphs theme to use in banner.
     * `numcolors`: number of colors to take into account when rendering banner.
 
-   `tinygraphs.com/isogrids/banner/random/gradient?theme=bythepool&numcolors=4`
+   `tinygraphs.cartesi.io/isogrids/banner/random/gradient?theme=bythepool&numcolors=4`
 
- ![isogrid gradient banner.](http://tinygraphs.com/isogrids/banner/random/gradient?h=75&xt=80&theme=bythepool&numcolors=4)
+ ![isogrid gradient banner.](https://tinygraphs.cartesi.io/isogrids/banner/random/gradient?h=75&xt=80&theme=bythepool&numcolors=4)
 
 * **random banner parameters:**
     * `p`: probability of the main color in the banner. Default value is `0.5`. Values should be between `0` and `1`
 
-    `tinygraphs.com/labs/isogrids/banner/gradient?theme=bythepool&p=0.1`
+    `tinygraphs.cartesi.io/labs/isogrids/banner/gradient?theme=bythepool&p=0.1`
 
-    ![isogrid gradient banner.](http://tinygraphs.com/labs/isogrids/banner/gradient?h=75&xt=80&theme=bythepool&numcolors=2&p=0.1)
+    ![isogrid gradient banner.](https://tinygraphs.cartesi.io/labs/isogrids/banner/gradient?h=75&xt=80&theme=bythepool&numcolors=2&p=0.1)
 
 * **isogrid color gradient parameters**
 
@@ -206,9 +206,9 @@ How to use:
     * `gx2`: second gradient coordinate along x axis.
     * `gy2`: second gradient coordinate along y axis.
 
-    `tinygraphs.com/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60`
+    `tinygraphs.cartesi.io/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60`
 
-    ![isogrid color gradient](http://www.tinygraphs.com/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60)
+    ![isogrid color gradient](https://tinygraphs.cartesi.io/labs/isogrids/banner/gradient?theme=bythepool&xt=4&h=120&w=120&gx1=0&gy1=0&gy2=60&gx2=60)
 
 Stack
 ======
@@ -281,7 +281,7 @@ Before you start be sure to have the proper rsa key. [See Managing Your SSH Keys
 
     > heroku login
     Enter your Heroku credentials.
-    Email: ga@tinygraphs.com
+    Email: ga@tinygraphs.cartesi.io
     Password:
 
 After that you can deploy as follows:
